@@ -1,1 +1,1 @@
-# hello-go
+# Golang Practice
