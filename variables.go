@@ -14,7 +14,9 @@ func main() {
 	var y int = 5
 
 	// even simpler version of this is goes like this:
+	// no need to declare the type of the variable here because Go will know what type it is
 	z := 5
 
+	// all the variables we created will print out the same exact thing.
 	fmt.Println(x, y, z)
 }
